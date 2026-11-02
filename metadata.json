@@ -1,0 +1,6 @@
+{
+  "name": "BlocoMetric - Gestão e Gráficos de Vendas de Blocos",
+  "description": "Painel analítico completo para lojas de materiais de construção e fábricas de blocos com histórico de vendas, métricas financeiras e projeções.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
